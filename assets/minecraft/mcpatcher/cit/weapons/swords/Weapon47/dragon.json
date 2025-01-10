@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "./item/dragonsabre",
-		"zDragonSabreEffect": "./item/dragonsabreeffect"
+		"texture": "./dragonsabre",
+		"zDragonSabreEffect": "./dragonsabreeffect"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"hellishvisio": "./item/hellishvisio"
+		"hellishvisio": "./hellishvisio"
 	},
 	"elements": [
 		{

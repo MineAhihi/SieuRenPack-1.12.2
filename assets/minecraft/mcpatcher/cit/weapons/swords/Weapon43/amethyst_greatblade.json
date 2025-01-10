@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "./item/amethyst_greatblade",
-		"particle": "./item/amethyst_greatblade"
+		"0": "./amethyst_greatblade",
+		"particle": "./amethyst_greatblade"
 	},
 	"elements": [
 		{

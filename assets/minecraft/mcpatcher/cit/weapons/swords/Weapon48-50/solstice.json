@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "./item/solstice",
-		"particle": "./item/solstice"
+		"0": "./solstice",
+		"particle": "./solstice"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"textures": {
-		"2": "./item/calamityblade_gem_cover",
-		"3": "./item/calamityblade_v3",
-		"4": "./item/calamityblade",
-		"particle": "./item/calamityblade"
+		"2": "./calamityblade_gem_cover",
+		"3": "./calamityblade_v3",
+		"4": "./calamityblade",
+		"particle": "./calamityblade"
 	},
 	"elements": [
 		{

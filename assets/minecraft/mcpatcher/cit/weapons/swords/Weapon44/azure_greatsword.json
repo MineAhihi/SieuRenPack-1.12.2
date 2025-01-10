@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./item/azure_greatsword",
-		"particle": "./item/azure_greatsword"
+		"0": "./azure_greatsword",
+		"particle": "./azure_greatsword"
 	},
 	"elements": [
 		{
