@@ -25,7 +25,7 @@ def rename_folders():
             # If weapon values were found, rename the folder
             if weapon_values:
                 weapon_values = sorted(set(weapon_values))  # Remove duplicates and sort
-                new_folder_name = f"Weapon{'-'.join(weapon_values)}"
+                new_folder_name = f"weapon{'-'.join(weapon_values)}"
                 new_folder_path = os.path.join(root, new_folder_name)
                 
                 # Rename only if the new folder name doesn't already exist
